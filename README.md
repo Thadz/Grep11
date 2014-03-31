@@ -1,4 +1,4 @@
-# Grep11 * [![Build Status](https://travis-ci.org/Thadz/Grep11.svg?branch=master)](https://travis-ci.org/Thadz/Grep11)
+# Grep11 [![Build Status](https://travis-ci.org/Thadz/Grep11.svg?branch=master)](https://travis-ci.org/Thadz/Grep11)
 
 a Unix/Linux grep-like command remake in **C++11**. It tries to match the given
 regular expression with the given input string and returns true if it succeeds,
