@@ -1,5 +1,5 @@
 CC = g++
-CFLAGS = -std=c++11 -Wall -g
+CFLAGS = -std=c++11 -Wall
 
 SRCS = nfa.cpp nfa_api.cpp main.cpp
 
