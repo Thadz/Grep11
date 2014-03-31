@@ -1,11 +1,10 @@
-Grep11
-========
+# Grep11
 
-a Unix/Linux grep-like command remake in C++11. It tries to match the given
+a Unix/Linux grep-like command remake in **C++11**. It tries to match the given
 regular expression with the given input string and returns true if it succeeds,
 otherwise false.
 
-# Regular Expression Format
+## Regular Expression Format
 
 For simplicity, the source code only supports following characters in **Postfix
 Notation**
@@ -22,7 +21,11 @@ Notation**
 - ? for at most once
 - + for at least once
 
-# How to Run
+## How to Run
 `````````
 >> ./grep "ba*&" "baaaa"
 `````````
+
+## License
+
+Ruby on Rails is released under the [MIT License](http://www.opensource.org/licenses/MIT).
