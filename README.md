@@ -28,4 +28,4 @@ Notation**
 
 ## License
 
-Ruby on Rails is released under the [MIT License](http://www.opensource.org/licenses/MIT).
+Grep11 is released under the [MIT License](http://www.opensource.org/licenses/MIT).
